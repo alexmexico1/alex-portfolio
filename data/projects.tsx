@@ -61,7 +61,7 @@ export const projects: Project[] = [
 
     FaGithubUrl: "https://github.com/alexmexico1",
 
-    liveUrl: "/projects/job-search-saas",
+    liveUrl: "https://fullstack-job-saas.vercel.app/",
   },
 
   {
