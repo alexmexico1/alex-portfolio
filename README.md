@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Alex Sunday Obi — Full-Stack Software Engineer
 
-## Getting Started
+## 🌐 Live Portfolio
 
-First, run the development server:
+### 👉 [VIEW MY LIVE PORTFOLIO](https://alex-portfolio-gilt-kappa.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+My professional developer portfolio showcasing my projects, technical skills, experience, and availability for remote software engineering opportunities.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Featured Projects
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### ALEX OBI E-Commerce Platform
+Modern full-stack ecommerce application with authentication, payments, shopping cart and production deployment.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Job Search SaaS
+Full-stack SaaS platform for discovering jobs, posting opportunities and managing applications.
 
-## Learn More
+## 🛠️ Core Technologies
 
-To learn more about Next.js, take a look at the following resources:
+- React
+- Next.js
+- TypeScript
+- Node.js
+- Express
+- MongoDB
+- PostgreSQL
+- MySQL
+- REST APIs
+- Stripe
+- Tailwind CSS
+- Git
+- Vercel
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 💼 Open to Remote Opportunities
 
-You can check out [the Next.js FaGithub repository](https://FaGithub.com/vercel/next.js) - your feedback and contributions are welcome!
+Available for remote software engineering, freelance, contract, internship and full-time opportunities.
 
-## Deploy on Vercel
+## 📫 Contact
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Portfolio:**  
+https://alex-portfolio-gilt-kappa.vercel.app/
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**GitHub:**  
+https://github.com/alexmexico1
+
