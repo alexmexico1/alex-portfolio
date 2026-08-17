@@ -1,7 +1,6 @@
 import TechBadge from "@/components/ui/TechBadge";
 import Image from "next/image";
 import { ArrowUpRight } from "lucide-react";
-import { FaGithub } from "react-icons/fa";
 
 type ProjectCardProps = {
   title: string;
@@ -9,7 +8,6 @@ type ProjectCardProps = {
   image: string;
   technologies: string[];
   live: string;
-  FaGithub: string;
 };
 
 export default function ProjectCard({
@@ -18,7 +16,6 @@ export default function ProjectCard({
   image,
   technologies,
   live,
-  FaGithub,
 }: ProjectCardProps) {
   return (
     <article className="overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-shadow hover:shadow-lg">
@@ -51,12 +48,10 @@ export default function ProjectCard({
           </a>
 
           <a
-            href={FaGithub}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center rounded-lg border border-slate-300 px-5 py-2.5 text-sm font-medium text-slate-700 hover:bg-slate-100"
           >
-            <FaGithub size ={18} />
             <span className="ml-2">Source Code</span>
           </a>
 
