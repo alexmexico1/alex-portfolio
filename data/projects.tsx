@@ -61,7 +61,7 @@ export const projects: Project[] = [
 
     FaGithubUrl: "https://github.com/alexmexico1",
 
-    liveUrl: "#",
+    liveUrl: "/projects/job-search-saas",
   },
 
   {
