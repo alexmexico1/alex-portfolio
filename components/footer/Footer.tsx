@@ -43,7 +43,7 @@ export default function Footer() {
           </a>
 
           <a
-            href="mailto:alex@example.com"
+            href="mailto:alexobi8000@gmail.com"
             aria-label="Email"
             className="text-slate-500 transition-colors hover:text-slate-900"
           >

@@ -10,7 +10,7 @@ export const portfolio = {
 
   location: "Abuja, Nigeria",
 
-  email: "alexsundayobi@gmail.com",
+  email: "alexobi8000@gmail.com",
 
   github: "https://github.com/alexmexico1",
 
