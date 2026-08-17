@@ -7,7 +7,7 @@ type ProjectCardProps = {
   description: string;
   image: string;
   technologies: string[];
-  live: string;
+  liveUrl: string;
 };
 
 export default function ProjectCard({
@@ -15,7 +15,7 @@ export default function ProjectCard({
   description,
   image,
   technologies,
-  live,
+  liveUrl,
 }: ProjectCardProps) {
   return (
     <article className="overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-shadow hover:shadow-lg">
@@ -38,7 +38,7 @@ export default function ProjectCard({
         <div className="mt-8 flex items-center gap-4">
 
           <a
-            href={live}
+            href={liveUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center rounded-lg bg-slate-900 px-5 py-2.5 text-sm font-medium text-white hover:bg-slate-800"
