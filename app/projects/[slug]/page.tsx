@@ -6,13 +6,15 @@ import ProjectMetrics from "@/components/projects/ProjectMetrics";
 import ProjectNavigation from "@/components/projects/ProjectNavigation";
 
 type Props = {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
 };
 
-export default function ProjectPage({ params }: Props) {
-  const project = projects.find((item) => item.slug === params.slug);
+export default async function ProjectPage({ params }: Props) {
+  const { slug } = await params;
+
+  const project = projects.find((item) => item.slug === slug);
 
   if (!project) {
     notFound();
